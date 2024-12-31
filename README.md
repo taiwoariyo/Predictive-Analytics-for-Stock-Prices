@@ -1,5 +1,4 @@
-#Predictive Analytics For Stock Prices
-
+PREDICTIVE ANALYTICS FOR STOCK PRICES
 
 STEP 1: DEFINE PROJECT SCOPE
 
